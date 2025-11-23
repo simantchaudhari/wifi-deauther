@@ -4,6 +4,6 @@ WiFi Deauther – Bash Script
 
 ![alt text](image.png)
 
-use monitor mode wifi adapter (wlan0mon)
-put bssid of target wifi
-put channel of target wifi
+⚠️ Disclaimer:
+This tool is for educational use only in your own network or a lab environment.
+Unauthorized deauthentication attacks are illegal.
